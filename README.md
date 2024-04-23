@@ -1,7 +1,5 @@
 # Dynamic Website Deployment on AWS with Terraform
 
-This guide outlines the steps to deploy a dynamic website on AWS using Terraform, leveraging various AWS services to ensure high availability, scalability, fault tolerance, and elasticity. Below are the steps involved in the deployment process along with necessary prerequisites and configurations.
-
 ## Prerequisites:
 
 1. **Install Terraform:** Install Terraform on your local machine. Refer to the [official Terraform documentation](https://learn.hashicorp.com/tutorials/terraform/install-cli) for installation instructions.
