@@ -1,3 +1,5 @@
+![Alt text](/Terraform-Ecommerce.jpg)
+
 # Dynamic Website Deployment on AWS with Terraform
 
 ## Prerequisites:
